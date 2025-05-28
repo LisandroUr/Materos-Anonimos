@@ -1,0 +1,4 @@
+Titulo: marto
+Autor: martopro
+Anio: 2004
+Precio: 20000.00
