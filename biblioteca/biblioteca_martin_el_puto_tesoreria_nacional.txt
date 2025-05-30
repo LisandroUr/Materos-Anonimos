@@ -1,4 +1,0 @@
-Titulo: tesoreria nacional
-Autor: martin el puto
-Anio: 1879
-Precio: 21000000.00

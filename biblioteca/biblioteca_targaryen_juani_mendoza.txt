@@ -1,4 +1,0 @@
-Titulo: juani mendoza
-Autor: targaryen
-Anio: 2005
-Precio: 9999999827968.00

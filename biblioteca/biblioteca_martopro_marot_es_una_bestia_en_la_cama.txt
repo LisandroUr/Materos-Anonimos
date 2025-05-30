@@ -1,4 +1,0 @@
-Titulo: marot es una bestia en la cama
-Autor: martopro
-Anio: 2006
-Precio: 12345678848.00
